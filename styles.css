@@ -5,7 +5,8 @@ box-sizing: border-box;
 
 h1{
     font-size: 50px;
-    padding: 20px;
+    font-family: 'Crimson Text', serif;
+    padding: 30px;
 }
 
 main{
@@ -36,6 +37,7 @@ main{
     margin: auto;
     padding: 20px 20px 20px 20px;
     font-size: 1.1em;
+    font-family: 'Crimson Text', serif;
 }
 
 @media(max-width: 600px){
