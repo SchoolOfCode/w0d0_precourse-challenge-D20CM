@@ -11,7 +11,7 @@ h1{
 
 main{
     text-align: center;
-    background-color: rgb(230, 228, 222);
+    background-color: rgb(241, 241, 239);
     min-height: 100vh;
 }
 
@@ -25,7 +25,10 @@ main{
 }
 
 #img-caption{
-    font-size: 12px;
+    font-size: 0.6em;
+    font-family: sans-serif;
+    padding: 5px;
+    
 }
 #img-div{
   
@@ -38,6 +41,16 @@ main{
     padding: 20px 20px 20px 20px;
     font-size: 1.1em;
     font-family: 'Crimson Text', serif;
+}
+
+footer{
+    background-color: rgb(231, 230, 230);
+    text-align: center;
+    
+    margin: auto;
+    padding: 20px 20px 20px 20px;
+    font-size: 0.6em;
+    font-family:  sans-serif;
 }
 
 @media(max-width: 600px){
